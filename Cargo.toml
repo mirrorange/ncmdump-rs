@@ -3,3 +3,4 @@ members = [
     "libncm",
     "ncmdumpcli",
 ]
+resolver = "2"

@@ -8,7 +8,7 @@ A Rust implementation of [anonymous5l/ncmdump](https://github.com/anonymous5l/nc
 
 ```
 USAGE:
-    ncmdump-rs.exe [OPTIONS] <file>
+    ncmdumpcli [OPTIONS] <file>
 
 FLAGS:
     -h, --help       Prints help information
